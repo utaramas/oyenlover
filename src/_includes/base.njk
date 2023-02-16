@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% include 'title-and-meta.njk' %}
+    <meta name="viewport" 
+        content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://11ty-theme-by-design-2-seo.netlify.app/assets/css/style.css">
+</head>
+<body>
+    {% include 'header.njk' %}
+    <main>
+    {{ content | safe }}
+    </main>
+    {% include 'footer.njk' %}
+</body>
+</html>
