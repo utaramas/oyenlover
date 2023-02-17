@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@11ty/eleventy": "^2.0.0",
-    "diff-package-lock": "^0.1.33"
+    "diff-package-lock": "^0.1.33",
+    "npm": "^9.5.0"
   }
 }
