@@ -14,8 +14,6 @@ Take a look at the list of 6 outstanding underwater restaurants in the Maldives 
 
 **The Maldives' six best underwater eateries to visit in 2023**
 
-
-{% highlight ruby %}
 <div class="table-responsive">
 		<table class="table table-striped w-auto">
 			<thead>
@@ -59,7 +57,6 @@ Take a look at the list of 6 outstanding underwater restaurants in the Maldives 
 			</tbody>
 		</table>
 </div>
-{% endhighlight %}
 
 1. **Ithaa Undersea Restaurant – Conrad Maldives Rangali Island**
 
