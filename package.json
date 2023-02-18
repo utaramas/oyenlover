@@ -1,18 +1,19 @@
 {
-  "name": "buid-a-11ty-site",
+  "name": "oyenlover",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.html",
+  "description": "Kumpulan foto kucing orange lucu",
+  "main": "index.js",
   "scripts": {
     "start": "eleventy --serve",
-    "build-production": "eleventy"
+    "build": "eleventy"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.0"
+  },
   "dependencies": {
-    "@11ty/eleventy": "^2.0.0",
-    "diff-package-lock": "^0.1.33",
-    "npm": "^9.5.0"
+    "diff-package-lock": "^0.1.33"
   }
 }
