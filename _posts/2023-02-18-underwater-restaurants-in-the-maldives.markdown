@@ -51,7 +51,7 @@ Take a look at the list of 6 outstanding underwater restaurants in the Maldives 
 				</tr>
 				<tr>
 					<td style="text-align:center">6.</td>
-					<td style="text-align:center"><strong>H2O Underwater Restaurant – You &amp; Me by Cocoon Maldives<strong></td>
+					<td style="text-align:center"><strong>H2O Underwater Restaurant – You & Me by Cocoon Maldives<strong></td>
 					<td><a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1832994&hl=en-us&hid=1184769" rel="nofollow" target="_blank">Agoda</a></td>
 				</tr>
 			</tbody>
@@ -88,7 +88,7 @@ Low-hanging capiz shell decorations across the space create the impression that 
 
 The four-in-one dining experience, which is Anantara's trademark concept and features Sea, Sky, Salt, and Fire, defines this restaurant. Exotic foods like Maldives lobster and Japanese wagyu can be found at this restaurant, which is open for breakfast, lunch, and dinner. 
 
-This restaurant is located directly on the ocean floor, and in contrast to Subsix and Ithaa, its contemporary, mirrored décor gives the impression that it is a larger establishment. While enjoying the finest in gourmet cuisine, you may observe the tropical fish, turtles, and sharks swimming past. 
+This restaurant is located directly on the ocean floor, and in contrast to Subsix and Ithaa, its contemporary, mirrored decor gives the impression that it is a larger establishment. While enjoying the finest in gourmet cuisine, you may observe the tropical fish, turtles, and sharks swimming past. 
 
 Visitors frequently order lobster salad, Scottish salmon, sea bass, and chocolate bomb explosion from the menu. SEA is a unique experience in every way.
 
@@ -126,15 +126,15 @@ The restaurant, which is located 20 feet below the turquoise lagoon, provides st
 
 - The first undersea restaurant to be included in an All-Inclusive Package.
 
-6. **H20 – You &amp; Me by Cocoon Maldives** 
+6. **H20 – You & Me by Cocoon Maldives** 
 
 This newer resort exudes romanticism, with magnificent villas and complimentary champagne, as well as a distinctive fine-dining flagship restaurant. With a seating capacity of 20, H2O offers guests a view of the Maldives' incredible marine environment while serving Maldivian cuisine. 
 
-The restaurant is 100 meters from the resort, on an untouched, breathtaking coral. The 360-degree view of the Maldives' spectacular marine environment while enjoying a delectable spread distinguishes You &amp; Me by Cocoon as the first of its kind.
+The restaurant is 100 meters from the resort, on an untouched, breathtaking coral. The 360-degree view of the Maldives' spectacular marine environment while enjoying a delectable spread distinguishes You & Me by Cocoon as the first of its kind.
 
 <u>General Knowledge</u>
 
-- You &amp; Me Maldives is a resort for adults only that caters to honeymooners and couples.
+- You & Me Maldives is a resort for adults only that caters to honeymooners and couples.
 
 - Raa Atoll's only underwater restaurant.
 
