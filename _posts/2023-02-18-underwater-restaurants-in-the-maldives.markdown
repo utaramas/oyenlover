@@ -12,7 +12,7 @@ These restaurants completely reinterpret what it means to dine underwater. They 
 
 Take a look at the list of 6 outstanding underwater restaurants in the Maldives that you should visit in 2023.
 
-**The Maldives' six best underwater eateries to visit in 2023**
+***The Maldives' six best underwater eateries to visit in 2023***
 
 <div class="table-responsive">
 		<table class="table table-striped w-auto">
@@ -26,32 +26,32 @@ Take a look at the list of 6 outstanding underwater restaurants in the Maldives 
 			<tbody>
 				<tr>
 					<td style="text-align:center">1.</td>
-					<td style="text-align:center"><strong>Ithaa Undersea Restaurant – Conrad Maldives Rangali Island<strong></td>
+					<td style="text-align:center">Ithaa Undersea Restaurant – Conrad Maldives Rangali Island</td>
 					<td><a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1832994&hl=en-us&hid=97270" rel="nofollow" target="_blank">Agoda</a></td>
 				</tr>
 				<tr>
 					<td style="text-align:center">2.</td>
-					<td style="text-align:center"><strong>Subsix at Niyama Maldives – Huluwalu<strong></td>
+					<td style="text-align:center">Subsix at Niyama Maldives – Huluwalu</td>
 					<td><a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1832994&hl=en-us&hid=296607" rel="nofollow" target="_blank">Agoda</a></td>
 				</tr>
 				<tr>
 					<td style="text-align:center">3.</td>
-					<td style="text-align:center"><strong>SEA – Anantara Kihavah Maldives Villas<strong></td>
+					<td style="text-align:center">SEA – Anantara Kihavah Maldives Villas</td>
 					<td><a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1832994&hl=en-us&hid=178294" rel="nofollow" target="_blank">Agoda</a></td>
 				</tr>
 				<tr>
 					<td style="text-align:center">4.</td>
-					<td style="text-align:center"><strong>5.8 Undersea Restaurant – Hurawalhi Maldives<strong></td>
+					<td style="text-align:center">5.8 Undersea Restaurant – Hurawalhi Maldives</td>
 					<td><a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1832994&hl=en-us&hid=1198620" rel="nofollow" target="_blank">Agoda</a></td>
 				</tr>
 				<tr>
 					<td style="text-align:center">5.</td>
-					<td style="text-align:center"><strong>Minus Six Meters Underwater Restaurant<strong></td>
+					<td style="text-align:center">Minus Six Meters Underwater Restaurant</td>
 					<td><a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1832994&hl=en-us&hid=1642172" rel="nofollow" target="_blank">Agoda</a></td>
 				</tr>
 				<tr>
 					<td style="text-align:center">6.</td>
-					<td style="text-align:center"><strong>H2O Underwater Restaurant – You & Me by Cocoon Maldives<strong></td>
+					<td style="text-align:center">H2O Underwater Restaurant – You & Me by Cocoon Maldives</td>
 					<td><a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1832994&hl=en-us&hid=1184769" rel="nofollow" target="_blank">Agoda</a></td>
 				</tr>
 			</tbody>
