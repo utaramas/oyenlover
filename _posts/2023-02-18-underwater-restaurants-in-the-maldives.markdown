@@ -2,7 +2,8 @@
 layout: post
 title:  "The 6 Best Underwater Restaurants in the Maldives"
 date:   2023-02-18 14:07:00 +0700
-categories: maldives
+author: "Admin"
+tags: restaurant
 ---
 Anybody who travels to the Maldives is considered to be enchanted. The Maldives, sometimes known as "Paradise on Earth," is a group of islands famous for snorkeling, scuba diving, and ocean cruises that are out of this world. The Maldives' famed "ultimate luxury" water villas are no longer the only experience that people look forward to. Some resorts on the private islands offer exceptional dining experiences, which raises their profile.
 
@@ -60,6 +61,8 @@ Take a look at the list of 6 outstanding underwater restaurants in the Maldives 
 
 1. **Ithaa Undersea Restaurant – Conrad Maldives Rangali Island**
 
+	![Ithaa Undersea Restaurant – Conrad Maldives Rangali Island]({{ site.baseurl }}/images/Ithaa-Undersea-Restaurant-Conrad-Maldives-Rangali-Island.jpg) ***Image via <a href="https://www.instagram.com/p/CGztfgsF5p1/" rel="nofollow" target="_blank">https://www.instagram.com/nai_adore/</a>***
+
 	The Ithaa offers 180-degree panoramic views of the beautiful marine life, making diving there a fantastic experience. This is unquestionably one of the most amazing underwater diving experiences you need to explore, having been constructed 16 feet below sea level. Its availability for private events like weddings, birthday parties, and other celebrations makes it unique. Ithaa is the first all-glass underwater restaurant in the history of the globe.
 
 	<u>General Knowledge</u>
@@ -71,6 +74,8 @@ Take a look at the list of 6 outstanding underwater restaurants in the Maldives 
 	- Fusion Maldivian-European cuisine is available.
 
 2. **Subsix – Niyama Private Islands Maldives**
+
+	![Subsix – Niyama Private Islands Maldives]({{ site.baseurl }}/images/Subsix-Niyama-Private-Islands-Maldives.jpg)<br>***Image via <a href="https://www.instagram.com/p/CLT1kzEp-js/" rel="nofollow" target="_blank">https://www.instagram.com/to_maldives/</a>***
 
 	According to its name, the interior design evokes the sea, from the chairs that resemble sea anemones to the bar that is structured like a shell. You descend a three-tiered staircase lighted by striking, abstract chandeliers to reach the restaurant. With its ocean blue lighting and chandeliers that resemble coral, this restaurant also has a mermaid theme that feels quite authentic. 
 
@@ -85,6 +90,8 @@ Take a look at the list of 6 outstanding underwater restaurants in the Maldives 
 	- There are planned underwater glow parties every Wednesday and Saturday.
 
 3. **SEA – Anantara Kihavah Maldives Villas**
+
+	![SEA – Anantara Kihavah Maldives Villas]({{ site.baseurl }}/images/SEA-Anantara-Kihavah-Maldives-Villas.jpg) ***Image via <a href="https://www.instagram.com/p/B8cbkIlF-Or/" rel="nofollow" target="_blank">https://www.instagram.com/oviajanteturismo/</a>***
 
 	The four-in-one dining experience, which is Anantara's trademark concept and features Sea, Sky, Salt, and Fire, defines this restaurant. Exotic foods like Maldives lobster and Japanese wagyu can be found at this restaurant, which is open for breakfast, lunch, and dinner. 
 
@@ -102,6 +109,8 @@ Take a look at the list of 6 outstanding underwater restaurants in the Maldives 
 
 4. **5.8 Undersea Restaurant – Hurawalhi Maldives** 
 
+	![5.8 Undersea Restaurant – Hurawalhi Maldives]({{ site.baseurl }}/images/58-Undersea-Restaurant-Hurawalhi-Maldives.jpg) ***Image via <a href="https://www.instagram.com/p/CiHwIikOAtJ/" rel="nofollow" target="_blank">https://www.instagram.com/hurawalhi/</a>***
+
 	Dinnertime is the ideal time to visit the restaurant. You can enjoy your surroundings during the day and marvel at how the environment changes when dusk falls. The restaurant offers constantly evolving set meals that are created based on the chef's experimenting with food and seasonality. 
 
 	A multi-course sampling show at the restaurant enchants the customers. Its name comes from the fact that it is located 5.8 meters below sea level.
@@ -116,6 +125,8 @@ Take a look at the list of 6 outstanding underwater restaurants in the Maldives 
 
 5. **Minus Six Meter – OZEN by Atmosphere at Maadhoo**
 
+	![Minus Six Meter – OZEN by Atmosphere at Maadhoo]({{ site.baseurl }}/images/Minus-Six-Meter-OZEN-by-Atmosphere-at-Maadhoo.jpg) ***Image via <a href="https://www.instagram.com/p/BV6yIexjRgu/" rel="nofollow" target="_blank">https://www.instagram.com/mvhotels.travel/</a>***
+
 	The unique underwater restaurant is without a doubt the crown jewel of OZEN's exquisite dining experiences. This seafood restaurant, which is open for lunch and supper, features breathtaking underwater vistas together with very intriguing modern seafood cuisine. 
 
 	The restaurant, which is located 20 feet below the turquoise lagoon, provides stunning sightings of sea turtles, shells, and other unusual marine life. Minus Six Meter, or M6m as it is affectionately known, is well-known for its extravagant marriage proposals performed by visitors assisting the employees.
@@ -127,6 +138,8 @@ Take a look at the list of 6 outstanding underwater restaurants in the Maldives 
 	- The first undersea restaurant to be included in an All-Inclusive Package.
 
 6. **H20 – You & Me by Cocoon Maldives** 
+
+	![H20 – You & Me by Cocoon Maldives]({{ site.baseurl }}/images/H20–You-Me-by-Cocoon-Maldives.jpg) ***Image via <a href="https://www.instagram.com/p/CNw2WqNBaBg/" rel="nofollow" target="_blank">https://www.instagram.com/dolcissimame.it/</a>***
 
 	This newer resort exudes romanticism, with magnificent villas and complimentary champagne, as well as a distinctive fine-dining flagship restaurant. With a seating capacity of 20, H2O offers guests a view of the Maldives' incredible marine environment while serving Maldivian cuisine. 
 
