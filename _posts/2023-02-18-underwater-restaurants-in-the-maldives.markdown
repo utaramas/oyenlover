@@ -154,6 +154,3 @@ Take a look at the list of 6 outstanding underwater restaurants in the Maldives 
 	- The elevator allows accessibility for visitors with disabilities.
 
 So there you have it, our guide to <a href="https://oyenlover.pages.dev/" target="_blank">the Maldives' top underwater restaurants.</a> All of this awaits the unforgettable island getaway, where exceptional under-the-sea eating can be enjoyed with the archipelago's stunning beaches, turquoise waters, and magnificent resorts.
-
-
-
