@@ -12,6 +12,8 @@ Since 1982, tourism has been the largest economic activity in the Maldives. Fish
 
 The Maldives has some of the most beautiful beaches and resorts in the world, which is why it's no surprise that water villas are in high demand. But with prices ranging from $1,000 to $5,000 per night, they're not exactly budget-friendly. So what's a traveler to do if they want to enjoy a luxurious water villa stay without breaking the bank?
 
+![Exploring Low-Cost Options for Water Villas in the Maldives]({{ site.baseurl }}/images/Benefits-of-Booking-a-Water-Villa-in-the-Maldives.png)
+
 Luckily, there are a few ways to enjoy all that the Maldives has to offer without spending a fortune. Here are some tips for finding the cheapest water villas in the Maldives:
 
 1. Plan your trip during the off-season: The Maldives is a popular destination year-round, but prices are significantly lower during the shoulder season (March-April and October-November). If you can swing it, traveling during these months will help you save big on accommodations.
@@ -24,7 +26,9 @@ Luckily, there are a few ways to enjoy all that the Maldives has to offer withou
 
 5. Join a group tour: Group tours are another great way to save money on your Maldives vacation. These tours typically include airfare, transfers, and lodging at a budget-friendly hotel or guesthouse. And since most tour operators offer group discounts, you can often snag a good deal on your trip.
 
-Benefits of Booking a Water Villa in the Maldives
+![Benefits of Booking a Water Villa in the Maldives]({{ site.baseurl }}/images/Benefits-of-Booking-a-Water-Villa-in-the-Maldives2.png)
+
+## Benefits of Booking a Water Villa in the Maldives
 
 ​There’s something about the Maldives that just screams luxury. Whether it’s the stunning overwater bungalows or the turquoise waters, a trip to the Maldives is sure to be a once in a lifetime experience. And what better way to enjoy the Maldives than by staying in one of the many water villas? Here are just a few of the benefits of booking a water villa in the Maldives:
 
@@ -50,7 +54,9 @@ One of the best things about staying in a water villa is that you’ll have dire
 
 Now that you know all of the benefits of booking a water villa in the Maldives, what are you waiting for? Start planning your trip today!
 
-Popular Low-Cost Water Villas in the Maldives
+![Popular Low-Cost Water Villas in the Maldives]({{ site.baseurl }}/images/Popular-Low-Cost-Water-Villas-in-the-Maldives.png)
+
+## Popular Low-Cost Water Villas in the Maldives
 
 ​Looking for a breathtaking, yet affordable, water villa in the Maldives? Look no further! Here are some of the most popular low-cost water villas in the Maldives that are sure to give you an unforgettable experience:
 
@@ -74,7 +80,9 @@ Cinnamon Hakuraa Huraa Maldives is another excellent choice for those looking fo
 
 Meeru Island Resort & Spa is a great option for those looking for an affordable water villa in the Maldives. This resort offers water villas that come with direct lagoon access, and boast stunning views of the lagoon and the surrounding area. Plus, the resort provides complimentary activities like snorkeling and windsurfing, so you can make the most of your time in the Maldives.
 
-Key Factors for Finding the Right Budget Water Villa
+![Key Factors for Finding the Right Budget Water Villa]({{ site.baseurl }}/images/Key-Factors-for-Finding-the-Right-Budget-Water-Villa.png)
+
+## Key Factors for Finding the Right Budget Water Villa
 
 ​Are you planning a trip to the Maldives? If so, you may be wondering how to find the right budget water villa. There are a few key factors to keep in mind when searching for a water villa on a budget.
 
@@ -86,7 +94,10 @@ Finally, you'll want to consider the amenities that are included with the water 
 
 Keep these factors in mind when searching for a budget water villa and you're sure to find the perfect option for your trip.
 
-How to Save Money on Maldives Water Villas
+![How to Save Money on Maldives Water Villas]({{ site.baseurl }}/images/How-to-Save-Money-on-Maldives-Water-Villas.png)
+
+## How to Save Money on Maldives Water Villas
+
 ​Every traveler wants to experience the best of the Maldives without spending a fortune. Luckily, there are ways to save money and still enjoy all that this island nation has to offer. Here are some tips on how to save money on Maldives water villas:
 
 1. Do your research.
@@ -127,7 +138,9 @@ The shoulder season is the time period between the high season and the low seaso
 
 10. Use these tips to save money on Maldives water villas and have a great trip!
 
-Final Thoughts on Exploring Cheap Water Villas in the Maldives
+![Final Thoughts on Exploring Cheap Water Villas in the Maldives]({{ site.baseurl }}/images/Final-Thoughts-on-Exploring-Cheap-Water-Villas-in-the-Maldives.png)
+
+### Final Thoughts on Exploring Cheap Water Villas in the Maldives
 
 ​After an amazing trip exploring some of the cheapest water villas in the Maldives, it's time to share some final thoughts. Overall, we were incredibly impressed with the quality and value of the accommodations we found. Not only were the rooms spacious and comfortable, but the views were absolutely incredible.
 
