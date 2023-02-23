@@ -58,7 +58,7 @@ Luckily, there are a few ways to enjoy all that the Maldives has to offer withou
 
 ## Popular Low-Cost Water Villas in the Maldives
 
-​Looking for a breathtaking, yet affordable, water villa in the Maldives? Look no further! Here are some of the most popular low-cost water villas in the Maldives that are sure to give you an unforgettable experience:
+​Looking for a breathtaking, yet affordable, water villa in the Maldives? Look no further! Here are some of the most popular <a href="https://oyenlover.pages.dev/" target="_blank"> low-cost water villas in the Maldives</a> that are sure to give you an unforgettable experience:
 
 1. Dhigali Maldives Resort
 
