@@ -3,7 +3,7 @@ layout: post
 title:  "The 6 Best Underwater Restaurants in the Maldives"
 date:   2023-02-18 14:07:00 +0700
 author: "Admin"
-tags: restaurant
+tags: maldives
 ---
 To transform, you fantasize about having an extraordinary culinary experience. Restaurants in the Maldives provide the opportunity to eat lunch beneath the sea while observing the seabed. As true travelers' paradises, trying the experience could be very interesting. This article will introduce you to the top six <a href="https://oyenlover.pages.dev/" target="_blank"> underwater restaurants in the Maldives.</a>
 

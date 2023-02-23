@@ -3,7 +3,7 @@ layout: post
 title:  "Exploring Low-Cost Options for Water Villas in the Maldives"
 date:   2023-02-22 14:07:00 +0700
 author: "Admin"
-tags: water villas
+tags: maldives
 ---
 
 The Maldives is a tropical nation in the Indian Ocean composed of 26 double coral atolls, which are made up of hundreds of small islands. The atolls are situated on top of a submarine ridge 960 kilometers (600 mi) long that rises abruptly from the depths of the Indian Ocean and runs north to south. The Maldives is one of the world's most geographically dispersed countries, as well as the smallest Asian country by land area and population. With an average ground-level elevation of 1.5 meters (4 ft 11 in) above sea level, it is also the world's lowest country. The government has stated that the Maldives is committed to becoming a fully carbon-neutral country by 2019.
