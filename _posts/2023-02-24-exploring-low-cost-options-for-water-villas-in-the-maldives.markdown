@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Exploring Low-Cost Options for Water Villas in the Maldives"
-date:   2023-02-22 14:07:00 +0700
+date:   2023-02-24 00:00:00 +0000
 author: "Admin"
 tags: maldives
 ---
