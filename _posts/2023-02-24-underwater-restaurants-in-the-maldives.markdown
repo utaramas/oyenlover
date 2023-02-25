@@ -59,7 +59,7 @@ Feel the experience of eating at an underwater restaurant with your beloved part
 
 #### Ithaa Undersea Restaurant – Conrad Maldives Rangali Island
 
-	![Ithaa Undersea Restaurant – Conrad Maldives Rangali Island]({{ site.baseurl }}/images/Ithaa-Undersea-Restaurant-Conrad-Maldives-Rangali-Island.jpg) ***Image via <a href="https://www.instagram.com/p/CGztfgsF5p1/" rel="nofollow" target="_blank">https://www.instagram.com/nai_adore/</a>***
+![Ithaa Undersea Restaurant – Conrad Maldives Rangali Island]({{ site.baseurl }}/images/Ithaa-Undersea-Restaurant-Conrad-Maldives-Rangali-Island.jpg) ***Image via <a href="https://www.instagram.com/p/CGztfgsF5p1/" rel="nofollow" target="_blank">https://www.instagram.com/nai_adore/</a>***
 
 If you want to have an unforgettable underwater experience in this restaurant, book a Maldives vacation with Marco Vasco, a reputable travel agency. It is the world's first underwater restaurant. It was opened in 2005 off the island of Rangali and is located 5 meters beneath the sea. 
 	
@@ -69,7 +69,7 @@ The ability to sleep with sea creatures is an incredible and unforgettable exper
 
 #### Subsix – Niyama Private Islands Maldives
 
-	![Subsix – Niyama Private Islands Maldives]({{ site.baseurl }}/images/Subsix-Niyama-Private-Islands-Maldives.jpg)<br>***Image via <a href="https://www.instagram.com/p/CLT1kzEp-js/" rel="nofollow" target="_blank">https://www.instagram.com/to_maldives/</a>***
+![Subsix – Niyama Private Islands Maldives]({{ site.baseurl }}/images/Subsix-Niyama-Private-Islands-Maldives.jpg)<br>***Image via <a href="https://www.instagram.com/p/CLT1kzEp-js/" rel="nofollow" target="_blank">https://www.instagram.com/to_maldives/</a>***
 
 It is located in Niyama, a seaside resort on the Dhaalu Atoll. To get there, take a boat to the stilted terrace of the Subsix restaurant. Then you'll only have to descend three floors into the ocean.
 	
@@ -80,7 +80,7 @@ The restaurant's menu features exquisite seafood, medallion, thorny lobster, and
 
 #### SEA – Anantara Kihavah Maldives Villas
 
-	![SEA – Anantara Kihavah Maldives Villas]({{ site.baseurl }}/images/SEA-Anantara-Kihavah-Maldives-Villas.jpg) ***Image via <a href="https://www.instagram.com/p/B8cbkIlF-Or/" rel="nofollow" target="_blank">https://www.instagram.com/oviajanteturismo/</a>***
+![SEA – Anantara Kihavah Maldives Villas]({{ site.baseurl }}/images/SEA-Anantara-Kihavah-Maldives-Villas.jpg) ***Image via <a href="https://www.instagram.com/p/B8cbkIlF-Or/" rel="nofollow" target="_blank">https://www.instagram.com/oviajanteturismo/</a>***
 
 On Baa Atoll, there is a five-star hotel. It is home to a chain of four restaurants themed Sea, Fire, Spice, and Sky. In addition, the restaurant serves gourmet dishes and exclusive aged wines to its customers. 
 	
@@ -91,7 +91,7 @@ Lunch here includes lobster and other gastronomic specialties. Desserts include 
 
 #### 5.8 Undersea Restaurant – Hurawalhi Maldives
 
-	![5.8 Undersea Restaurant – Hurawalhi Maldives]({{ site.baseurl }}/images/58-Undersea-Restaurant-Hurawalhi-Maldives.jpg) ***Image via <a href="https://www.instagram.com/p/CiHwIikOAtJ/" rel="nofollow" target="_blank">https://www.instagram.com/hurawalhi/</a>***
+![5.8 Undersea Restaurant – Hurawalhi Maldives]({{ site.baseurl }}/images/58-Undersea-Restaurant-Hurawalhi-Maldives.jpg) ***Image via <a href="https://www.instagram.com/p/CiHwIikOAtJ/" rel="nofollow" target="_blank">https://www.instagram.com/hurawalhi/</a>***
 
 This restaurant can be found in Laviani Atoll. It is located at a depth of 5.8 meters, as the name implies. It is also the world's largest underwater restaurant. 
 	
@@ -101,7 +101,7 @@ The kitchen is contemporary. The menu changes seasonally and offers a wide varie
 
 #### Minus Six Meter – OZEN by Atmosphere at Maadhoo
 
-	![Minus Six Meter – OZEN by Atmosphere at Maadhoo]({{ site.baseurl }}/images/Minus-Six-Meter-OZEN-by-Atmosphere-at-Maadhoo.jpg) ***Image via <a href="https://www.instagram.com/p/BV6yIexjRgu/" rel="nofollow" target="_blank">https://www.instagram.com/mvhotels.travel/</a>***
+![Minus Six Meter – OZEN by Atmosphere at Maadhoo]({{ site.baseurl }}/images/Minus-Six-Meter-OZEN-by-Atmosphere-at-Maadhoo.jpg) ***Image via <a href="https://www.instagram.com/p/BV6yIexjRgu/" rel="nofollow" target="_blank">https://www.instagram.com/mvhotels.travel/</a>***
 
 Restaurant to visit at the seaside resort OZEN by Atmosphere, located on the island of Maadhu in the South Male atoll. M6M offers an exclusive seafood menu as well as an aquarium "in a bottle". 
 	
@@ -110,7 +110,7 @@ Here is an incredible panorama of the Indian Ocean's underwater world at a depth
 
 #### H20 – You & Me by Cocoon Maldives
 
-	![H20 – You & Me by Cocoon Maldives]({{ site.baseurl }}/images/H20–You-Me-by-Cocoon-Maldives.jpg) ***Image via <a href="https://www.instagram.com/p/CNw2WqNBaBg/" rel="nofollow" target="_blank">https://www.instagram.com/dolcissimame.it/</a>***
+![H20 – You & Me by Cocoon Maldives]({{ site.baseurl }}/images/H20–You-Me-by-Cocoon-Maldives.jpg) ***Image via <a href="https://www.instagram.com/p/CNw2WqNBaBg/" rel="nofollow" target="_blank">https://www.instagram.com/dolcissimame.it/</a>***
 
 This is the restaurant of Raa Atoll's luxury hotel. It is a heavenly location suitable for lovers. 
 	
