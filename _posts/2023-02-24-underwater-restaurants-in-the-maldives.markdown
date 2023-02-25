@@ -57,7 +57,7 @@ Feel the experience of eating at an underwater restaurant with your beloved part
 		</table>
 </div>
 
-#### Ithaa Undersea Restaurant – Conrad Maldives Rangali Island
+#### 1. Ithaa Undersea Restaurant – Conrad Maldives Rangali Island
 
 ![Ithaa Undersea Restaurant – Conrad Maldives Rangali Island]({{ site.baseurl }}/images/Ithaa-Undersea-Restaurant-Conrad-Maldives-Rangali-Island.jpg) ***Image via <a href="https://www.instagram.com/p/CGztfgsF5p1/" rel="nofollow" target="_blank">https://www.instagram.com/nai_adore/</a>***
 
@@ -67,7 +67,7 @@ The dome is made of transparent acrylic glass in the shape of a capsule. An incr
 	
 The ability to sleep with sea creatures is an incredible and unforgettable experience. Furthermore, the restaurant seats 14 people. Its cuisine consists of European and Maldivian dishes.
 
-#### Subsix – Niyama Private Islands Maldives
+#### 2. Subsix – Niyama Private Islands Maldives
 
 ![Subsix – Niyama Private Islands Maldives]({{ site.baseurl }}/images/Subsix-Niyama-Private-Islands-Maldives.jpg)<br>***Image via <a href="https://www.instagram.com/p/CLT1kzEp-js/" rel="nofollow" target="_blank">https://www.instagram.com/to_maldives/</a>***
 
@@ -78,7 +78,7 @@ The restaurant is six meters deep. When you arrive beneath the sea, you will fin
 The restaurant's menu features exquisite seafood, medallion, thorny lobster, and other culinary masterpieces by the chef. It also serves fine wine as well as a selection of cocktails and beers.
 
 
-#### SEA – Anantara Kihavah Maldives Villas
+#### 3. SEA – Anantara Kihavah Maldives Villas
 
 ![SEA – Anantara Kihavah Maldives Villas]({{ site.baseurl }}/images/SEA-Anantara-Kihavah-Maldives-Villas.jpg) ***Image via <a href="https://www.instagram.com/p/B8cbkIlF-Or/" rel="nofollow" target="_blank">https://www.instagram.com/oviajanteturismo/</a>***
 
@@ -89,7 +89,7 @@ From here, you can see the underwater inhabitants from a depth of 6 meters. The 
 Lunch here includes lobster and other gastronomic specialties. Desserts include ice cream and other delectable treats.
 
 
-#### 5.8 Undersea Restaurant – Hurawalhi Maldives
+#### 4. 5.8 Undersea Restaurant – Hurawalhi Maldives
 
 ![5.8 Undersea Restaurant – Hurawalhi Maldives]({{ site.baseurl }}/images/58-Undersea-Restaurant-Hurawalhi-Maldives.jpg) ***Image via <a href="https://www.instagram.com/p/CiHwIikOAtJ/" rel="nofollow" target="_blank">https://www.instagram.com/hurawalhi/</a>***
 
@@ -99,7 +99,7 @@ In addition, it offers a pleasant environment and impressive panoramas thanks to
 
 The kitchen is contemporary. The menu changes seasonally and offers a wide variety of culinary delights.
 
-#### Minus Six Meter – OZEN by Atmosphere at Maadhoo
+#### 5. Minus Six Meter – OZEN by Atmosphere at Maadhoo
 
 ![Minus Six Meter – OZEN by Atmosphere at Maadhoo]({{ site.baseurl }}/images/Minus-Six-Meter-OZEN-by-Atmosphere-at-Maadhoo.jpg) ***Image via <a href="https://www.instagram.com/p/BV6yIexjRgu/" rel="nofollow" target="_blank">https://www.instagram.com/mvhotels.travel/</a>***
 
@@ -108,7 +108,7 @@ Restaurant to visit at the seaside resort OZEN by Atmosphere, located on the isl
 Here is an incredible panorama of the Indian Ocean's underwater world at a depth of 6 meters, as well as a clever decoration of original dishes. The M6M kitchen Seafood dishes in a modern kitchen. Working hours: M6M is open for lunch and dinner.
 
 
-#### H20 – You & Me by Cocoon Maldives
+#### 6. H20 – You & Me by Cocoon Maldives
 
 ![H20 – You & Me by Cocoon Maldives]({{ site.baseurl }}/images/H20–You-Me-by-Cocoon-Maldives.jpg) ***Image via <a href="https://www.instagram.com/p/CNw2WqNBaBg/" rel="nofollow" target="_blank">https://www.instagram.com/dolcissimame.it/</a>***
 
@@ -116,7 +116,7 @@ This is the restaurant of Raa Atoll's luxury hotel. It is a heavenly location su
 	
 The resort has an underwater restaurant called H2O. It is the only restaurant in the world that offers a 360-degree view of the ocean during lunch. 
 	
-There are also excellent panoramas that allow you to fully appreciate this environment. The restaurant's menu includes seafood such as fish tartare and fried plantains and lobster tartar.
+There are also excellent panoramas that allow you to fully appreciate this environment. The restaurant's menu includes seafood such as fish tartare, lobster tartare and fried plantains.
 
 ## Finale
 
