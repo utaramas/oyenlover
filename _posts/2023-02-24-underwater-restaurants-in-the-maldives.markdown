@@ -63,7 +63,7 @@ Feel the experience of eating at an underwater restaurant with your beloved part
 
 If you want to have an unforgettable underwater experience in this restaurant, book a Maldives vacation with Marco Vasco, a reputable travel agency. It is the world's first underwater restaurant. It was opened in 2005 off the island of Rangali and is located 5 meters beneath the sea. 
 	
-The dome is made of acrylic glass in the shape of a transparent capsule. The restaurant room is surrounded by an incredible aquarium. What makes this restaurant unique is that it can be transformed into a romantic room at night. 
+The dome is made of transparent acrylic glass in the shape of a capsule. An incredible aquarium surrounds the restaurant room. This restaurant is unique in that it can be converted into a romantic room at night. 
 	
 The ability to sleep with sea creatures is an incredible and unforgettable experience. Furthermore, the restaurant seats 14 people. Its cuisine consists of European and Maldivian dishes.
 
@@ -71,7 +71,7 @@ The ability to sleep with sea creatures is an incredible and unforgettable exper
 
 	![Subsix – Niyama Private Islands Maldives]({{ site.baseurl }}/images/Subsix-Niyama-Private-Islands-Maldives.jpg)<br>***Image via <a href="https://www.instagram.com/p/CLT1kzEp-js/" rel="nofollow" target="_blank">https://www.instagram.com/to_maldives/</a>***
 
-It is situated in the Dhaalu Atoll's seaside resort of Niyama. To get there, take a boat to the Subsix restaurant's stilted terrace. Then you'll only have to descend three floors into the depths of the sea. 
+It is located in Niyama, a seaside resort on the Dhaalu Atoll. To get there, take a boat to the stilted terrace of the Subsix restaurant. Then you'll only have to descend three floors into the ocean.
 	
 The restaurant is six meters deep. When you arrive beneath the sea, you will find an interior with a shell-shaped bar, shell garlands under the ceiling, and whimsical chairs. The sight of sea turtles and Moorish idols is breathtaking. 
 	
@@ -95,8 +95,8 @@ Lunch here includes lobster and other gastronomic specialties. Desserts include 
 
 This restaurant can be found in Laviani Atoll. It is located at a depth of 5.8 meters, as the name implies. It is also the world's largest underwater restaurant. 
 	
-Furthermore, it provides a pleasant atmosphere and a breathtaking panorama due to its beautiful view of the coral reef. For lunch or dinner, the restaurant can accommodate 10 pairs of guests. 
-	
+In addition, it offers a pleasant environment and impressive panoramas thanks to its beautiful views of coral reefs. The restaurant welcomes 10 guest couples for lunch or dinner.
+
 The kitchen is contemporary. The menu changes seasonally and offers a wide variety of culinary delights.
 
 #### Minus Six Meter – OZEN by Atmosphere at Maadhoo
@@ -116,8 +116,8 @@ This is the restaurant of Raa Atoll's luxury hotel. It is a heavenly location su
 	
 The resort has an underwater restaurant called H2O. It is the only restaurant in the world that offers a 360-degree view of the ocean during lunch. 
 	
-Furthermore, it provides a breathtaking panorama that allows you to fully appreciate this environment. The restaurant's menu includes seafood dishes such as fish tartare, fried bananas, and lobster tartare.
+There are also excellent panoramas that allow you to fully appreciate this environment. The restaurant's menu includes seafood such as fish tartare and fried plantains and lobster tartar.
 
 ## Finale
 
-In a nutshell, each of these six restaurants is unique. They all provide a stunning and incredible view. If you have time, go to each one and discover the magic that occurs there.
+In a nutshell, each of these six establishments is distinct. They all offer a breathtaking and incredible view. If you have time, visit each one and learn about the magic that happens there.
