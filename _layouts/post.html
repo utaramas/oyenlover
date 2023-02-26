@@ -21,10 +21,10 @@ layout: default
 
   {% if site.related_posts.size >= 1 %}
 <div>
-  <h3>Related Posts</h3>
+  <h3>Related Posts {{ page.title | escape }}</h3>
   <ul>
   {% for related_post in site.related_posts limit: 5 %}
-    <li><a href="{{ related_post.url }}">{{ related_post.title }}</a></li>
+    <li><h4><a href="{{ related_post.url }}">{{ related_post.title }}</a><h4></li>
   {% endfor %}
   </ul>
 </div>
