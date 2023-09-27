@@ -632,3 +632,9 @@ Butuh waktu lebih dari 1 hari untuk bisa submit link sebanyak ini.
 Semoga bisa jadi member Gold biar rezekinya senilai Puncak Gold menjelang dan setelah tahun 2024
 
 <hr/>
+
+### Target Ke Malaysia Singapore Tahun 2024
+
+Semoga bisa pecah telur dapat stempel paspor tahun 2024
+
+<hr/>
