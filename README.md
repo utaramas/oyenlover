@@ -629,12 +629,18 @@ Butuh waktu lebih dari 1 hari untuk bisa submit link sebanyak ini.
 
 ### Target Jadi Member Gold Tokopedia Sebelum Tahun 2024
 
-Semoga bisa jadi member Gold biar rezekinya senilai Puncak Gold menjelang dan setelah tahun 2024
+Semoga bisa jadi member Gold biar rezekinya senilai Puncak Gold menjelang dan setelah tahun 2024.
 
 <hr/>
 
 ### Target Ke Malaysia Singapore Tahun 2024
 
-Semoga bisa pecah telur dapat stempel paspor tahun 2024
+Semoga bisa pecah telur dapat stempel paspor tahun 2024.
+
+<hr/>
+
+### Belajar Ekonomi Koperasi
+
+Semoga bisa dapat mengunjungi negara-negara dengan koperasi terbaik mulai tahun tahun 2024.
 
 <hr/>
