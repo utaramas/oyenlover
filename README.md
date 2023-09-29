@@ -656,3 +656,21 @@ Kendala yang dihadapi:
 Harga 1 porsi dengan nasi sebesar Rp. 22.000.
 
 <hr/>
+
+### Pertama Makan Gabus Pucung
+
+Tadi malam tgl 28 September 2023, akhirnya jadi kali pertama makan gabus pucung, setelah setahun lebih direncanakan.
+
+Kendala yang dihadapi:
+1. Tidak mengetahui lokasi detailnya.
+2. Tidak menggunakan Google Maps.
+
+Harga 1 porsi dengan nasi sebesar Rp. 22.000.
+
+<hr/>
+
+### Lihat Podcast Kuliah di Madinah
+
+Semoga bisa Bahasa Arab dengan lancar akhir 2024.
+
+<hr/>
