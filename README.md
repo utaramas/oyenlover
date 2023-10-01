@@ -672,3 +672,9 @@ Rumah Makan Gabus Pucung selanjutnya :
 Semoga bisa Bahasa Arab dengan lancar akhir 2024.
 
 <hr/>
+
+### Nonton Destiny 1997
+
+Nyari Dunia Sofi gak ketemu.
+
+<hr/>
