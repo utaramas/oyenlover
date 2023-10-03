@@ -675,6 +675,6 @@ Semoga bisa Bahasa Arab dengan lancar akhir 2024.
 
 ### Nonton Destiny 1997
 
-Nyari Dunia Sofi gak ketemu.
+Nyari film Dunia Sofi gak ketemu.
 
 <hr/>
