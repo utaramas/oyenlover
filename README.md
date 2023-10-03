@@ -678,3 +678,9 @@ Semoga bisa Bahasa Arab dengan lancar akhir 2024.
 Nyari film Dunia Sofi gak ketemu.
 
 <hr/>
+
+### Deposit Deriv Via Bank Lokal
+
+Deposit Deriv via Bank Lokal BRI BRIVA 3 Oktober 2023, namun sayang akun real Deriv tidak bisa tersambung.
+
+<hr/>
