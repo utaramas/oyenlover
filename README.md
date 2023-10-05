@@ -684,3 +684,9 @@ Nyari film Dunia Sofi gak ketemu.
 Deposit Deriv via Bank Lokal BRI BRIVA 3 Oktober 2023, namun sayang akun real Deriv tidak bisa tersambung.
 
 <hr/>
+
+### Akhir Pencarian Trading System
+
+BBMA OA RE D1, BBMA KG ANGGARA PRAMUDITA H1, NIKEN M30
+
+<hr/>
