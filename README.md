@@ -690,3 +690,9 @@ Deposit Deriv via Bank Lokal BRI BRIVA 3 Oktober 2023, namun sayang akun real De
 Confluence BBMA OA RE D1, BBMA KG ANGGARA PRAMUDITA H1, NIKEN M30.
 
 <hr/>
+
+### Fibo H1 BBMA KG ANGGARA PRAMUDITA
+
+Harga akan retest minimal level 78,6.
+
+<hr/>
