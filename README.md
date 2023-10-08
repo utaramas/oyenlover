@@ -693,6 +693,12 @@ Confluence BBMA OA RE D1, BBMA KG ANGGARA PRAMUDITA H1, NIKEN M30.
 
 ### Fibo H1 BBMA KG ANGGARA PRAMUDITA
 
-Harga akan retest minimal level 78,6.
+Harga akan retest minimal pada level 78,6.
+
+<hr/>
+
+### Tahsin
+
+Semoga banyak ada perbaikan dalam membaca al quran akhir 2023.
 
 <hr/>
