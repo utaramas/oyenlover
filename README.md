@@ -702,3 +702,9 @@ Harga akan retest minimal pada level 78,6.
 Semoga banyak ada perbaikan dalam membaca al quran akhir 2023.
 
 <hr/>
+
+### RE D1 BBMA Oma Ally Batal
+
+CS tidak bisa melepasi level Fibo 61,8 Daily kemarin.
+
+<hr/>
