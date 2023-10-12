@@ -714,3 +714,9 @@ CS tidak bisa melepasi level Fibo 61,8 Daily kemarin.
 Ada divergence di H1.
 
 <hr/>
+
+### Meta Trader 4 - Meta Trader 5
+
+Exness - Deriv, server lebih lambat 3 jam. 
+
+<hr/>
