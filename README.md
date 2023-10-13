@@ -720,3 +720,9 @@ Ada divergence di H1.
 Exness - Deriv, server lebih lambat 3 jam. 
 
 <hr/>
+
+### Jam Server TradingView
+
+Jam server di UTC. 
+
+<hr/>
