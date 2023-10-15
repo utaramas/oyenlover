@@ -726,3 +726,9 @@ Exness - Deriv, server lebih lambat 3 jam.
 Jam server di UTC. 
 
 <hr/>
+
+### Jim Brown
+
+Divergence + Indicators
+
+<hr/>
