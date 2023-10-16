@@ -687,7 +687,7 @@ Deposit Deriv via Bank Lokal BRI BRIVA 3 Oktober 2023, namun sayang akun real De
 
 ### Akhir Pencarian Trading System
 
-Confluence BBMA OA RE D1, BBMA KG ANGGARA PRAMUDITA H1, JIM BROWN DIVERGENCE, ATS, NIKEN M30.
+Confluence BBMA OA RE D1, BBMA KG ANGGARA PRAMUDITA H1, JIM BROWN DIVERGENCE, ATS, CSR100, NIKEN M30.
 
 <hr/>
 
@@ -729,6 +729,12 @@ Jam server di UTC.
 
 ### Jim Brown
 
-Divergence + Indicators
+Divergence + Indicators.
+
+<hr/>
+
+### CSR100
+
+Bro JGV100 mainly menggunakan teknik ini dalam PAIR GU & EU.
 
 <hr/>
