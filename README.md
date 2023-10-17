@@ -738,3 +738,9 @@ Divergence + Indicators.
 Bro JGV100 mainly menggunakan teknik ini dalam PAIR GU & EU.
 
 <hr/>
+
+### Ichimoku
+
+Baru paham fungsi 26 lagging.
+
+<hr/>
