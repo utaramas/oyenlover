@@ -744,3 +744,9 @@ Bro JGV100 mainly menggunakan teknik ini dalam PAIR GU & EU.
 Baru paham fungsi 26 lagging.
 
 <hr/>
+
+### Ichimoku
+
+Baru paham fungsi 52.
+
+<hr/>
