@@ -750,3 +750,9 @@ Baru paham fungsi 26 lagging.
 Baru paham fungsi 52.
 
 <hr/>
+
+### Fractal + Zigzag
+
+Batas TP sebelum harga retrace.
+
+<hr/>
