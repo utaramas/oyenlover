@@ -756,3 +756,9 @@ Baru paham fungsi 52.
 Batas TP sebelum harga retrace.
 
 <hr/>
+
+### Fractal + Zigzag
+
+Bisa untuk tempat entry. Ada indi untuk MT4 dan MT5.
+
+<hr/>
