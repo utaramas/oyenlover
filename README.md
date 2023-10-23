@@ -762,3 +762,9 @@ Batas TP sebelum harga retrace.
 Bisa untuk tempat entry. Ada indi untuk MT4 dan MT5.
 
 <hr/>
+
+### 2 Tantangan Dalam Trading
+
+Ada 2 tantangan dalam trading yang perlu diantisipasi ole trader yaitu : divergence & zigzag.
+
+<hr/>
