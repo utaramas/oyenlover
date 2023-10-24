@@ -774,3 +774,9 @@ Ada 2 tantangan dalam trading yang perlu diantisipasi ole trader yaitu : diverge
 AvaTrade, Forex.com, easyMarkets.
 
 <hr/>
+
+### Saudia Travel Fair
+
+Kunjungi Saudia Travel Fair yang disponsori oleh Bank Syariah Indonesia. Di mall Senayan City tanggal 27-29 Oktober 2023.
+
+<hr/>
