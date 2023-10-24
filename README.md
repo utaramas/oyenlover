@@ -768,3 +768,9 @@ Bisa untuk tempat entry. Ada indi untuk MT4 dan MT5.
 Ada 2 tantangan dalam trading yang perlu diantisipasi ole trader yaitu : divergence & zigzag.
 
 <hr/>
+
+### FX Broker Server Time GMT+0
+
+AvaTrade, Forex.com, easyMarkets.
+
+<hr/>
