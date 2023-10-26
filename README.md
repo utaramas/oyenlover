@@ -780,3 +780,15 @@ AvaTrade, Forex.com, easyMarkets.
 Kunjungi Saudia Travel Fair yang disponsori oleh Bank Syariah Indonesia. Di mall Senayan City tanggal 27-29 Oktober 2023.
 
 <hr/>
+
+### Innovatech Marketing Summit 2023
+
+Anda akan belajar mulai dari Lead Generation Strategy, Chat Commerce & Automation, hingga A.I. dalam pemasaran.
+
+Apa yang menjadi tujuan utama Anda dalam pemasaran di 2024?
+
+Innovatech Marketing Summit 2023
+Jumat, 27 Oktober 2023 Jam 13.30-17.30
+The Kasablanka - Aruba Room. Mall Kota Kasablanka lt.3, Jakarta Selatan
+
+<hr/>
