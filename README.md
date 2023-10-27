@@ -800,3 +800,9 @@ Hanya ikut 1 sesi, pembicaranya mas Ryan Kristo Muljono. ikutan ganti ongkos cet
 Btw kenapa akronimnya sama seperti yg aku buat?
 
 <hr/>
+
+### Grandia Publisher
+
+Jl. Taman Siswa No. 69, Wirogunan, Kec. Mergangsan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55151, Indonesia.
+
+<hr/>
