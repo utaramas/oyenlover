@@ -792,3 +792,11 @@ Jumat, 27 Oktober 2023 Jam 13.30-17.30
 The Kasablanka - Aruba Room. Mall Kota Kasablanka lt.3, Jakarta Selatan
 
 <hr/>
+
+### Oleh-oleh Innovatech Marketing Summit 2023
+
+Hanya ikut 1 sesi, pembicaranya mas Ryan Kristo Muljono. ikutan ganti ongkos cetak buku Digital Marketing Activation (DMA).
+
+Btw kenapa akronimnya sama seperti yg aku buat?
+
+<hr/>
