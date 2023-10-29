@@ -806,3 +806,9 @@ Btw kenapa akronimnya sama seperti yg aku buat?
 Jl. Taman Siswa No. 69, Wirogunan, Kec. Mergangsan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55151, Indonesia.
 
 <hr/>
+
+### Pohon Tin 
+
+Harus rutin diberi air.
+
+<hr/>
