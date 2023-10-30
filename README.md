@@ -807,8 +807,14 @@ Jl. Taman Siswa No. 69, Wirogunan, Kec. Mergangsan, Kota Yogyakarta, Daerah Isti
 
 <hr/>
 
-### Pohon Tin 
+### Pohon Tin Dalam Pot
 
 Harus rutin diberi air.
+
+<hr/>
+
+### Happy Halloween!
+
+Cendol Github berubah dari warna hijau menjadi kuning dan hitam.
 
 <hr/>
