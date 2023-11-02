@@ -824,3 +824,36 @@ Cendol Github berubah dari warna hijau menjadi kuning dan hitam.
 Learn English Today.
 
 <hr/>
+
+### Google, AI & Pemasaran Bisnis Anda!
+
+Multiplied by Google AI - Merupakan tema pemasaran produk Google di 2023 sesuai dengan maraknya pertumbuhan teknologi berbasis AI
+
+Apa yang Google Persiapkan di akhir 2023 ini:
+
+Search Engine: Search Generative Experience
+
+Google Ads: Performance Max with AI Creative Solution
+
+Google Ads: Demand Gen
+
+ada 3 produk unggulan yang ditenagai oleh Google AI.
+
+Apa yang harus dipersiapkan? Bagaimana pola pikir pemasaran berbasis AI?
+
+Dapatkan wawasan baru pada webinar dari Doxadigital
+
+Performance Series: "Multiplied by Google AI"
+Rabu, 8 November 2023
+Jam 19.00 - Selesai WIB
+
+Bersama: Viktor Iwan - CEO/Founder dari Doxadigital
+
+Daftar sekarang di https://doxadigital[.]com/webinar
+Tempat Terbatas!
+
+Bersiaplah mempersiapkan normal baru pemasaran dengan AI
+
+Let's Innovatech!
+
+<hr/>
