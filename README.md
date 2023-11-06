@@ -857,3 +857,9 @@ Bersiaplah mempersiapkan normal baru pemasaran dengan AI
 Let's Innovatech!
 
 <hr/>
+
+### MetaTrader Portable
+
+MetaTrader Portable adalah MetaTrader series portable yang mudah dipindah-pindah atau dibackup, lebih ringan dan yang digunakan oleh Profesional Trader dalam menjalankan autotrading di dalam server.
+
+<hr/>
