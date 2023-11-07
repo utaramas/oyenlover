@@ -863,3 +863,20 @@ Let's Innovatech!
 MetaTrader Portable adalah MetaTrader series portable yang mudah dipindah-pindah atau dibackup, lebih ringan dan yang digunakan oleh Profesional Trader dalam menjalankan autotrading di dalam server.
 
 <hr/>
+
+### 𝐊𝐄𝐋𝐀𝐒 𝐀𝐒𝐀𝐒 𝐁𝐁𝐌𝐀𝐎𝐀 𝐃𝐈 𝐉𝐎𝐇𝐎𝐑 𝐁𝐇𝐀𝐑𝐔
+
+🖌Promosi Kelas Basic BBMAOA
+.
+Kelas yang akan disampaikan oleh pengasas Teknik BBMA sendiri, iaitu Cikgu Oma Ally. 
+Harga asal bagi Kelas Basic BBMAOA adalah USD1000
+.
+Tetapi dengan promosi kali ini, hanya depo ke account trading anda sendiri minimum USD50 sahaja
+.
+Kelas adalah terhad‼️
+.
+Tarikh : 25 November 2023
+Masa  : 9.00 am – 5.00 pm
+Tempat : Impiana Hotel Johor Bharu
+
+<hr/>
