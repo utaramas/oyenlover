@@ -880,3 +880,9 @@ Masa  : 9.00 am – 5.00 pm
 Tempat : Impiana Hotel Johor Bharu
 
 <hr/>
+
+### BCA KlikPay Akan Berhenti Beroperasi
+
+Dear Nasabah BCA, Layanan BCA KlikPay akan berhenti beroperasi per 1 November 2023. Sehubungan dengan penghentian BCA KlikPay, untuk memenuhi kebutuhan pembayaran belanja online, nasabah dapat menggunakan layanan BCA lainnya, seperti OneKlik, Debit Online, Transfer Virtual Account dan Kartu Kredit BCA.
+
+<hr/>
